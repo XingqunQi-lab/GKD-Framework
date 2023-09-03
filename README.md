@@ -1,5 +1,5 @@
 # GKD-Framework
-Exploring Generalizable Distillation for Efficient Medical Image Segmentation
+### Exploring Generalizable Distillation for Efficient Medical Image Segmentation
 
 [Xingqun Qi](https://scholar.google.com.hk/citations?hl=zh-CN&user=3tO41a8AAAAJ&view_op=list_works&sortby=pubdate), Zhuojie Wu, [Wenxuan Zou](https://scholar.google.com.hk/citations?user=7Hskn8EAAAAJ&hl=zh-CN), [Min Ren](https://scholar.google.com.hk/citations?user=DQAHeWcAAAAJ&hl=zh-CN), [Muyi Sun](https://scholar.google.com.hk/citations?user=Ti7NNqMAAAAJ&hl=zh-CN), [Shanghang Zhang](https://scholar.google.com/citations?user=voqw10cAAAAJ&hl=en), [Caifeng Shan](https://scholar.google.com.hk/citations?user=fIXA_SsAAAAJ&hl=zh-CN), [Zhenan Sun](https://scholar.google.com.hk/citations?user=PuZGODYAAAAJ&hl=zh-CN)
 ### Pipeline
