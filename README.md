@@ -1,5 +1,7 @@
 # GKD-Framework
-Pytorch implementation of "Exploring Generalizable Distillation for Efficient Medical Image Segmentation".
+Exploring Generalizable Distillation for Efficient Medical Image Segmentation
+
+[Xingqun Qi](https://scholar.google.com.hk/citations?hl=zh-CN&user=3tO41a8AAAAJ&view_op=list_works&sortby=pubdate), Zhuojie Wu, [Wenxuan Zou](https://scholar.google.com.hk/citations?user=7Hskn8EAAAAJ&hl=zh-CN), [Min Ren](https://scholar.google.com.hk/citations?user=DQAHeWcAAAAJ&hl=zh-CN), [Muyi Sun](https://scholar.google.com.hk/citations?user=Ti7NNqMAAAAJ&hl=zh-CN), [Shanghang Zhang](https://scholar.google.com/citations?user=voqw10cAAAAJ&hl=en), [Caifeng Shan](https://scholar.google.com.hk/citations?user=fIXA_SsAAAAJ&hl=zh-CN), [Zhenan Sun](https://scholar.google.com.hk/citations?user=PuZGODYAAAAJ&hl=zh-CN)
 ### Pipeline
 ![image](https://github.com/XingqunQi-lab/GKD-Framework/blob/main/image/merged_framework.png)
 The overall framework of our proposed Generalizable Knowledge Distillation (GKD). To be specific, in DCGD (left), each training sample is fed into two models simultaneously after different data augmentation strategies jointly. The MSAN encoder is exploited to extract domain-invariant knowledge.
