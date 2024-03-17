@@ -15,11 +15,18 @@ The t-SNE visualization on the latent vectors of the teacher and student network
 Retinal vessel segmentation comparisons of the proposed GKD with previous knowledge distillation counterparts. 
 The top two-row samples are from the CHASEDB1 dataset, the middle two-row samples are from the STARE dataset, and the bottom two-row samples are from the DRIVE dataset.
 Notably, all the models are trained on the CHASEDB1 dataset and directly tested on the three testing sets.
+![image](https://github.com/XingqunQi-lab/GKD-Framework/blob/main/image/liver_results.png)
+Liver segmentation comparisons of the proposed GKD with state-of-the-art knowledge distillation counterparts. 
+The top two-row samples are from the CHAOS dataset, and the bottom two-row samples are from the LITS dataset.
 ### Results of Ablation Study
 ![image](https://github.com/XingqunQi-lab/GKD-Framework/blob/main/image/vessel_ablation_study_detail.png)
 The visual comparisons of ablation study on the retinal vessel segmentation task. 
 The top two-row samples are from the CHASEDB1 dataset, the middle two-row samples are from the STARE dataset, and the bottom two-row samples are from the DRIVE dataset.
 Notably, all the models are trained on the CHASEDB1 dataset and directly tested on three datasets.
+![image](https://github.com/XingqunQi-lab/GKD-Framework/blob/main/image/liver_ablation_study_detail.png)
+The visual comparisons of ablation study on the liver segmentation task. 
+The top two-row samples are from CHAOS dataset, and the bottom two-row samples are from the LITS dataset. 
+Notably, all the models are trained on the CHAOS dataset and directly tested on these two datasets.
 
 # Code
 We are organizing our code and will release the full version code soon. Sorry for the delay.
