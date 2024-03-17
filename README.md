@@ -11,9 +11,15 @@ The pre-trained teacher network and MSAN structure are frozen when the student m
 ![image](https://github.com/XingqunQi-lab/GKD-Framework/blob/main/image/tSNE.png)
 The t-SNE visualization on the latent vectors of the teacher and student networks with random samples in the CHASEDB1 dataset. The different colors denote anchor samples and augmented samples. Once our proposed GKD framework distills the student, the latent vectors demonstrate noticeable distribution discrepancies compared with scratch-trained ones
 ### Results on Cross-domain Datasets
-![image](https://github.com/XingqunQi-lab/GKD-Framework/blob/main/image/vessel_results.png)
+![image](https://github.com/XingqunQi-lab/GKD-Framework/blob/main/image/vessel_results_detail.png)
 Retinal vessel segmentation comparisons of the proposed GKD with previous knowledge distillation counterparts. 
 The top two-row samples are from the CHASEDB1 dataset, the middle two-row samples are from the STARE dataset, and the bottom two-row samples are from the DRIVE dataset.
 Notably, all the models are trained on the CHASEDB1 dataset and directly tested on the three testing sets.
+### Results of Ablation Study
+![image](https://github.com/XingqunQi-lab/GKD-Framework/blob/main/image/vessel_ablation_study_detail.png)
+The visual comparisons of ablation study on the retinal vessel segmentation task. 
+The top two-row samples are from the CHASEDB1 dataset, the middle two-row samples are from the STARE dataset, and the bottom two-row samples are from the DRIVE dataset.
+Notably, all the models are trained on the CHASEDB1 dataset and directly tested on three datasets.
+
 # Code
 We are organizing our code and will release the full version code soon. Sorry for the delay.
